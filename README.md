@@ -7,7 +7,7 @@ Task 1 Research paper: [Social_media_bullying_detection_using_machine_learning_o
 
 Task 1 Presentation: 
 
-Task 2 Research paper: [An_Approach_to_Detect_Abusive_Bangla_Text.pdf](https://github.com/Yuvraajrahman/bokhtiaar_cse431/files/13506050/An_Approach_to_Detect_Abusive_Bangla_Text.pdf)
+Task 2 Research paper: https://github.com/Yuvraajrahman/bokhtiaar_cse431/blob/main/An_Approach_to_Detect_Abusive_Bangla_Text.pdf
 
 Task 2 Presentation: 
 
