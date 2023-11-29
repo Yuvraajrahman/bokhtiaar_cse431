@@ -3,7 +3,7 @@
 
 #Individual Tasks:
 
-Task 1 Research paper: https://github.com/Yuvraajrahman/bokhtiaar_cse431/blob/main/Social_media_bullying_detection_using_machine_learning_on_Bangla_text.pdf
+Task 1 Research paper:   https://github.com/Yuvraajrahman/bokhtiaar_cse431/blob/main/Social_media_bullying_detection_using_machine_learning_on_Bangla_text.pdf
 
 Task 1 Presentation: 
 
